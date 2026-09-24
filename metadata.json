@@ -1,0 +1,6 @@
+{
+  "name": "Birmingham Music Stories",
+  "description": "An interactive digital exhibition celebrating Birmingham's musical heritage through its artists, genres, and places.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
